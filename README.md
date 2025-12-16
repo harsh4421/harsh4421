@@ -1,3 +1,4 @@
+<h1 align="center">Hii 👋 , WELCOME TO MY GITHUB PROFILE </h1>
 <p align="center">
   <img src="Hello world.gif" width="150%" alt="GitHub Banner" />
 </p>
@@ -7,7 +8,7 @@
 </p>
 
 ---
-## 🔥 Tech Stack  
+## 💻 My Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,figma" />
@@ -15,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 My GitHub Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh4421&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" />
 </p>
@@ -28,7 +29,7 @@
 
 ---
  
- 
+## 🔗 Connect With Me
 <!--Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
