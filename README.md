@@ -1,43 +1,46 @@
-# Hi 👋 I'm Harsh Kumar 😎
+<p align="center">
+  <img src="Hello world.gif" width="150%" alt="GitHub Banner" />
+</p>
 
-👨‍💻 B.Tech Computer Science Student  
-🌍 From `Hello World` → **World Domination** 🚀  
-🐍 Python enthusiast | 💡 Curious learner  
-⚡ Powered by VS Code + ChatGPT  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=700&color=00FFF0&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+the+Future+with+Code;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping;Code+%7C+Coffee+%7C+Curiosity;Debugging+Life+One+Line+at+a+Time" />
+</p>
+
+---
+## 🔥 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh4421&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" />
+</p>
+
+
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4421&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF" />
+</p>
 
 ---
-
-## 🧠 What I’m Doing
-- 🐍 Writing Python scripts & mini projects  
-- 🔧 Version control with Git & GitHub  
-- 🤖 Using ChatGPT to learn faster & smarter  
-- 🌱 Improving problem-solving skills  
-
----
-
-## 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh4421&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harsh4421&theme=tokyonight)
-
----
-
-## 🚀 Goals
-- Build real-world Python projects  
-- Contribute to open source  
-- Become a skilled software developer  
-
----
-
-## 🤝 Let’s Connect
-💬 Open to collaboration & learning  
-⭐ If you like my work, consider starring a repo!
+ 
+ 
+<!--Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/HarshKu28811136" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" />
+  </a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/harsh-kumar-862331367/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/harsh_4421xd/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+  </a>
+</p>
