@@ -17,15 +17,18 @@
 ---
 
 ## 📊 My GitHub Stats 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh4421&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" />
-</p>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=harsh4421&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4421&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-<!-- Top Languages -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4421&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF" />
-</p>
 
 ---
  
